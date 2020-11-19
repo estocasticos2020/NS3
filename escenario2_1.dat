@@ -1,0 +1,1018 @@
+Waiting for simulation script to connect on port: tcp://localhost:5555
+Please start proper ns-3 simulation script using ./waf --run "..."
+('Observation space: ', Box(25L,), dtype('uint64'))
+('Action space: ', Box(25L,), dtype('uint64'))
+('Start iteration: ', 0)
+('Step: ', 0)
+('---obs: ', [500L, 14L, 39L, 1L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 1L, 0L])
+('---action: ', array([  3,  87,  30,  39,  64,  19,  43,  12,  28, 100,  88,  36,  13,
+         7,  59,  38,  51, 100,  55,  71,  48,  35,  13,  35,  52],
+      dtype=uint64))
+('Step: ', 1)
+('---obs, reward, done, info: ', [500L, 14L, 40L, 1L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 9, 10, 79, 60, 87, 10,  0,  2, 24, 59, 24, 79,  2, 37, 98, 69,  4,
+       91, 28, 22, 37, 13, 17, 96, 29], dtype=uint64))
+('Step: ', 2)
+('---obs, reward, done, info: ', [500L, 16L, 38L, 1L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([23, 35, 59, 75, 92,  0, 69, 39, 34, 55, 38, 24, 62, 73, 12, 30, 77,
+       88,  5, 46,  3, 22, 31, 82, 55], dtype=uint64))
+('Step: ', 3)
+('---obs, reward, done, info: ', [500L, 26L, 16L, 0L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([96, 21, 17, 30, 79, 22, 36, 46, 15, 48, 87, 98, 82, 33, 30, 55, 19,
+       68,  8, 12, 98,  4, 97, 68, 90], dtype=uint64))
+('Step: ', 4)
+('---obs, reward, done, info: ', [497L, 25L, 13L, 0L, 0L, 0L, 0L, 1L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([58, 66, 32, 98, 16, 75, 32, 47, 33, 48, 58, 80, 39, 85, 83, 82, 47,
+        1,  8, 91, 94, 10, 17, 28, 85], dtype=uint64))
+('Step: ', 5)
+('---obs, reward, done, info: ', [498L, 11L, 1L, 6L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 98,   0,  44,  15,  61, 100,  32,  92,  78,  14,  63,  34,  40,
+        28,  90,  15,  82,  29,  93,  20,  82,  86,  18,  13,  89],
+      dtype=uint64))
+('Step: ', 6)
+('---obs, reward, done, info: ', [379L, 10L, 1L, 6L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([47, 50, 73, 69, 19, 87, 98, 47, 39, 76,  1, 26, 88, 17, 32, 74, 79,
+       31, 64, 25, 85, 29, 92,  3, 33], dtype=uint64))
+('Step: ', 7)
+('---obs, reward, done, info: ', [497L, 8L, 1L, 6L, 1L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([10, 57, 18, 96, 54, 84, 88, 11, 81, 66,  6, 66, 66, 35, 93, 87, 46,
+       60, 22, 64, 44, 63,  1, 95, 10], dtype=uint64))
+('Step: ', 8)
+('---obs, reward, done, info: ', [499L, 8L, 2L, 5L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([16, 47, 97, 26, 33, 48, 50, 60, 54, 31, 77, 44, 71, 91, 81, 26, 53,
+       98, 46, 75,  3, 25, 14, 49, 12], dtype=uint64))
+('Step: ', 9)
+('---obs, reward, done, info: ', [500L, 9L, 1L, 3L, 1L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([23, 88, 96, 67, 59,  2, 79, 48, 56, 48, 17, 46, 51, 55, 46, 89, 58,
+       14, 22, 27, 10,  7, 45, 51, 81], dtype=uint64))
+('Step: ', 10)
+('---obs, reward, done, info: ', [500L, 8L, 2L, 2L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([93, 21,  5, 60, 29, 63, 94, 56, 16,  8, 76, 74, 60, 99, 98, 96, 55,
+       60, 34, 57, 62, 24, 67, 44, 42], dtype=uint64))
+('Step: ', 11)
+('---obs, reward, done, info: ', [373L, 1L, 0L, 10L, 0L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([70, 44, 47, 32, 49, 64, 92, 39,  3, 49,  8, 92, 52,  1, 70, 87, 66,
+       69, 15, 70,  3, 28, 66, 72, 12], dtype=uint64))
+('Step: ', 12)
+('---obs, reward, done, info: ', [500L, 3L, 1L, 9L, 0L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 77,  15,  25,  10,  60,   1,  64,  71,  40, 100,  40,   2,  55,
+        53,  37,  39,   8,   9,  52,  46,  84,  19,  74,  20,  16],
+      dtype=uint64))
+('Step: ', 13)
+('---obs, reward, done, info: ', [491L, 2L, 0L, 8L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([13, 47, 93, 65,  2, 59, 84, 78, 26, 79, 52, 88, 22, 64, 63, 62, 74,
+       53, 58, 68, 16, 60, 91, 15, 24], dtype=uint64))
+('Step: ', 14)
+('---obs, reward, done, info: ', [500L, 3L, 0L, 5L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([24, 69, 78, 54, 66,  1, 92, 50, 43, 69, 28, 19, 49, 21, 70,  3, 23,
+        1, 73, 26, 21, 27, 48, 30, 91], dtype=uint64))
+('Step: ', 15)
+('---obs, reward, done, info: ', [500L, 3L, 0L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([69, 80, 51, 77, 12, 10, 93, 88, 13, 89, 65, 57, 30, 31, 33, 37, 20,
+       38, 67, 30, 24, 74, 74, 16, 78], dtype=uint64))
+('Step: ', 16)
+('---obs, reward, done, info: ', [500L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 88,   1, 100,  28,  98,  17,  41,   5,  55,  99,  15,  76,  77,
+         1,  72,  65,  49,  59,  78,  97,  42,  66,  17,  94,  65],
+      dtype=uint64))
+('Step: ', 17)
+('---obs, reward, done, info: ', [500L, 0L, 3L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([84, 65, 26, 86, 99, 52,  7, 39, 40, 26, 24, 77, 47, 15, 68, 92, 86,
+       86, 44, 27, 97, 76,  9, 67, 11], dtype=uint64))
+('Step: ', 18)
+('---obs, reward, done, info: ', [500L, 0L, 0L, 3L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([35, 78, 63, 30, 93, 40, 26, 10, 43, 69,  2, 13, 70, 56, 50, 66, 10,
+       15, 28, 16, 42, 93, 95, 16, 19], dtype=uint64))
+('Step: ', 19)
+('---obs, reward, done, info: ', [500L, 2L, 0L, 1L, 3L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([15, 16, 28, 75,  8, 67, 38, 32, 42, 59, 43, 52, 22, 99, 41, 51, 15,
+       77, 95, 74, 91, 22, 95,  7, 59], dtype=uint64))
+('Step: ', 20)
+('---obs, reward, done, info: ', [500L, 1L, 1L, 1L, 0L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([87, 41, 88,  6, 63, 98, 12, 61, 70,  3, 83, 45, 40, 87, 88, 87, 16,
+       25, 14, 85, 65, 92, 48, 15, 74], dtype=uint64))
+('Step: ', 21)
+('---obs, reward, done, info: ', [500L, 1L, 0L, 0L, 0L, 2L, 1L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 71,  47,   2, 100,  23,  51,  50,  81,   3,  44,  78,  15,  20,
+        66,  99,  68,  30,  47,   9,  93,  90,  38,  13,  44,   9],
+      dtype=uint64))
+('Step: ', 22)
+('---obs, reward, done, info: ', [345L, 1L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([39, 39, 30, 35,  9, 37, 76, 13, 62, 68, 76, 86, 80, 16, 35, 51, 41,
+        0,  5, 98, 13, 95,  0, 93, 60], dtype=uint64))
+('Step: ', 23)
+('---obs, reward, done, info: ', [497L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 45,   7,  25,  80,  97,  29, 100,  19,   1,  25,  35,  26,  20,
+        11,  86,  86,  66,  41,  30,  54,   0,  57,  87,   1,   8],
+      dtype=uint64))
+('Step: ', 24)
+('---obs, reward, done, info: ', [499L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([54, 10, 66, 35, 51, 55, 65, 12, 57, 88, 15, 85, 45, 51, 44, 87, 87,
+       13, 21, 92, 77, 88, 30, 93, 61], dtype=uint64))
+('Step: ', 25)
+('---obs, reward, done, info: ', [500L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([46, 23, 25, 13, 22, 14, 24, 10, 81, 24, 70, 57, 39, 80, 86, 69, 29,
+       63, 80, 63, 79, 89, 89,  9,  5], dtype=uint64))
+('Step: ', 26)
+('---obs, reward, done, info: ', [500L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([33, 77, 11, 30, 54,  5, 72, 98, 61, 49, 90, 34, 93, 80, 83, 99, 70,
+       75, 58, 62, 94, 38,  8, 42, 12], dtype=uint64))
+('Step: ', 27)
+('---obs, reward, done, info: ', [500L, 4L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 64,  53,  49,  28,  73,  20,  42,   6,  34,  78,  41,  90,  43,
+       100,  76,  92,  49,  28,  17,   2,  62,  74,  97,  71,  48],
+      dtype=uint64))
+('Step: ', 28)
+('---obs, reward, done, info: ', [346L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([74, 57, 60, 66,  8, 25, 39, 11, 55, 28, 92, 46, 73, 48, 53, 85, 72,
+       39, 87, 62,  1, 71, 23, 11, 83], dtype=uint64))
+('Step: ', 29)
+('---obs, reward, done, info: ', [379L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([  3,  46,   3,  63,  40, 100,  71,   0,  20,  50,  32,  64,  98,
+        67,  23,  27,  24,  94,  80,  94,  14,  60,  33,  45,  52],
+      dtype=uint64))
+('Step: ', 30)
+('---obs, reward, done, info: ', [500L, 6L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([68, 32, 60, 52, 70, 90, 33, 29, 62, 33, 58, 31, 50, 43, 75, 32, 47,
+       20, 56, 92, 79, 17, 37, 18, 10], dtype=uint64))
+('Step: ', 31)
+('---obs, reward, done, info: ', [500L, 0L, 5L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([83, 70, 61, 97, 51, 78, 30, 42, 24, 43, 36, 51, 52, 70, 81, 11, 36,
+       39, 27, 17, 46, 28, 20, 73, 15], dtype=uint64))
+('Step: ', 32)
+('---obs, reward, done, info: ', [500L, 0L, 4L, 2L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([98, 87, 18, 37, 32, 49, 77, 85, 31, 97,  4, 18, 53,  3,  4, 83, 47,
+       93, 29, 95, 80, 18, 25,  1, 59], dtype=uint64))
+('Step: ', 33)
+('---obs, reward, done, info: ', [378L, 0L, 4L, 2L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 73,  62,  69, 100,  39,  44,  50,  14,  37,  13,  53,   3,  78,
+        89,  35,  65,  29,  70,  13,  76,  68,  84,  72,  20,  50],
+      dtype=uint64))
+('Step: ', 34)
+('---obs, reward, done, info: ', [500L, 0L, 0L, 4L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([96, 51,  6, 14, 21, 99, 17, 38, 87, 30, 62, 16, 27, 44, 85, 94, 49,
+       33, 85, 25, 24, 37,  9, 10, 90], dtype=uint64))
+('Step: ', 35)
+('---obs, reward, done, info: ', [499L, 0L, 0L, 4L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([81, 17, 59, 10, 52, 39, 95, 96,  3, 15, 14, 27, 99, 87, 67, 33, 28,
+       84, 27, 66, 62, 54,  6, 95, 37], dtype=uint64))
+('Step: ', 36)
+('---obs, reward, done, info: ', [500L, 0L, 0L, 3L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([64, 45, 84, 84, 86, 36, 45,  6, 66, 80, 42, 74, 45, 62, 88, 27, 83,
+       28, 69, 77, 99, 85, 63, 19, 84], dtype=uint64))
+('Step: ', 37)
+('---obs, reward, done, info: ', [500L, 0L, 0L, 4L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([19,  2,  4, 22, 19, 59, 31, 95, 31, 51, 55, 78, 27, 46,  3, 30,  3,
+        1, 66, 23, 72, 60, 53, 58, 14], dtype=uint64))
+('Step: ', 38)
+('---obs, reward, done, info: ', [500L, 0L, 0L, 4L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 33,  59,  30,  36,  35,   8,  17, 100,  18,  87,  18,   4,  93,
+        99,  84,  12,  42,  85,   9,  94,  79,  81,   7,  74,  57],
+      dtype=uint64))
+('Step: ', 39)
+('---obs, reward, done, info: ', [464L, 1L, 0L, 2L, 1L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([40, 25, 43, 71, 44,  1, 26, 66, 22, 13,  0, 33, 37, 23, 57, 31, 77,
+       88, 73, 98, 15, 10, 90,  3, 54], dtype=uint64))
+('Step: ', 40)
+('---obs, reward, done, info: ', [311L, 1L, 0L, 4L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([88, 54,  9, 56, 26, 83,  8, 72, 70, 77, 27, 20, 76,  1, 81, 93, 79,
+       97, 53, 64, 39, 24, 62, 88,  6], dtype=uint64))
+('Step: ', 41)
+('---obs, reward, done, info: ', [500L, 2L, 0L, 1L, 1L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 70,  99,  88,  29,  13,  45,  22,  21,  10,  47,  41,  88,   9,
+        98,  56,  39,  84,  29,  31,   0,  99,  27,  18, 100,  54],
+      dtype=uint64))
+('Step: ', 42)
+('---obs, reward, done, info: ', [500L, 6L, 0L, 0L, 0L, 3L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([65,  1, 72, 70, 95, 86,  8, 72,  6, 99, 39,  1, 80, 61, 22, 34, 80,
+        7, 44, 74, 42, 99, 48, 91, 82], dtype=uint64))
+('Step: ', 43)
+('---obs, reward, done, info: ', [378L, 1L, 4L, 0L, 0L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([33, 49,  8, 49, 44, 53, 14, 15, 35, 39, 24, 86, 51, 43, 33, 96, 53,
+       38, 77, 92, 12, 25, 83, 69, 38], dtype=uint64))
+('Step: ', 44)
+('---obs, reward, done, info: ', [500L, 1L, 2L, 1L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([  7,  57,  35,  82,  39,  78,  96,  32,  58,  17,  57,  78,  40,
+        26,   6,  93,  15,  91, 100,  32,  85,  28,  99,  69, 100],
+      dtype=uint64))
+('Step: ', 45)
+('---obs, reward, done, info: ', [499L, 3L, 0L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([15, 56, 15, 16, 95, 56, 23, 16, 71, 16, 15, 94, 23, 96, 64, 59, 37,
+        0, 28, 51, 39, 29, 38, 63, 19], dtype=uint64))
+('Step: ', 46)
+('---obs, reward, done, info: ', [500L, 4L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([42,  6, 31, 13, 27, 19, 45, 95, 82, 75, 86, 40,  1, 84, 77, 83, 67,
+       58, 34, 62, 10, 98, 37, 33,  2], dtype=uint64))
+('Step: ', 47)
+('---obs, reward, done, info: ', [500L, 4L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([90, 51,  1, 78, 42, 45, 96,  7, 17, 70, 47, 12, 75, 22, 79, 89, 81,
+       17,  8, 12, 51, 32, 63, 78,  4], dtype=uint64))
+('Step: ', 48)
+('---obs, reward, done, info: ', [500L, 3L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([58, 36,  4, 36, 78, 49, 20, 17, 53, 57, 74, 95,  4,  7, 16, 20, 37,
+       78, 65, 70, 28,  9, 62, 86, 23], dtype=uint64))
+('Step: ', 49)
+('---obs, reward, done, info: ', [379L, 2L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([28, 85, 96, 17, 43,  4,  8, 93, 96, 95, 87, 27, 65, 17, 75, 10,  5,
+       40,  8, 64, 67, 33, 94, 16, 61], dtype=uint64))
+('Step: ', 50)
+('---obs, reward, done, info: ', [500L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([56, 87, 88,  2, 85, 46, 87, 49, 88, 85, 82,  7, 54,  5, 15, 21,  1,
+       79, 45, 31, 70,  2, 92,  9, 39], dtype=uint64))
+('Step: ', 51)
+('---obs, reward, done, info: ', [500L, 3L, 1L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([  8,  60,  38,  82, 100,  45,  49,  63,  29,  59,  64,  10,   0,
+        56,  88,  62,  17,  81,  53,  32,  82,  69,  65,  73,  66],
+      dtype=uint64))
+('Step: ', 52)
+('---obs, reward, done, info: ', [479L, 8L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 5, 57,  1, 42, 30, 79, 27, 79, 58, 48, 84, 74, 16, 55, 74, 22, 15,
+       18, 32, 79, 86, 97, 48,  1, 96], dtype=uint64))
+('Step: ', 53)
+('---obs, reward, done, info: ', [500L, 15L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 40,  99,  13,  51,  36,  97,  66,  71,  66,  89, 100,  52,  96,
+         7,  43,  45,  28,  58,  69,  32,  23,  31,  38,  15,  28],
+      dtype=uint64))
+('Step: ', 54)
+('---obs, reward, done, info: ', [464L, 22L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 10,  92,  94,  67,  88,  58,  54,  53,  45, 100,  26,   4,  66,
+        42,  66,  83,  49,  57,   5,  71,   8,  40,  86,  57,  39],
+      dtype=uint64))
+('Step: ', 55)
+('---obs, reward, done, info: ', [500L, 28L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 79,  72,  50,  41,  52,  71,  62,  26, 100,  24,  49,  30,  47,
+        32,  33,  21,  49,  42,  84,  64,  53,  49,  66,  32,  75],
+      dtype=uint64))
+('Step: ', 56)
+('---obs, reward, done, info: ', [500L, 29L, 0L, 0L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([98, 79, 97, 88, 52,  8, 27,  3, 43, 99, 96, 77, 26, 15, 59, 44, 78,
+       29, 60, 48, 88, 87,  0, 67,  0], dtype=uint64))
+('Step: ', 57)
+('---obs, reward, done, info: ', [317L, 24L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 16, 100,   5,  81,  40,  48,  52,  62,  47,  82,  42,  10,  37,
+        74,  63,  65,  69,  52,  92,  89,  88,  71,  95,   4,  50],
+      dtype=uint64))
+('Step: ', 58)
+('---obs, reward, done, info: ', [500L, 22L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([93, 81, 93, 20, 68, 98, 73, 12, 93, 81, 31, 31, 72, 33,  6, 31, 71,
+       81, 75, 54, 96, 70, 81, 39, 20], dtype=uint64))
+('Step: ', 59)
+('---obs, reward, done, info: ', [494L, 17L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([18, 54, 66,  4, 71, 87, 43, 60, 90, 25, 56, 56, 89, 71, 82, 94, 26,
+       14, 37, 78, 39, 29, 78, 49, 21], dtype=uint64))
+('Step: ', 60)
+('---obs, reward, done, info: ', [500L, 17L, 1L, 0L, 1L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([10, 14,  9, 16, 25,  3, 42,  3, 67, 12, 53, 16, 29, 87, 52, 77,  8,
+       30, 83, 92, 59, 65, 63, 67, 12], dtype=uint64))
+('Step: ', 61)
+('---obs, reward, done, info: ', [500L, 6L, 2L, 1L, 2L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 57,  60,  88,  11,  64,  96,  49,  68,  89,  72,  99,  38,  75,
+        36,  93,  14, 100,   2,  21,  56,  44,  78,  97,  83,  63],
+      dtype=uint64))
+('Step: ', 62)
+('---obs, reward, done, info: ', [495L, 6L, 0L, 1L, 1L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([53, 44, 96, 27, 36, 10, 84, 82,  6, 67, 50, 94, 72,  4, 17, 29, 29,
+       99, 19, 48, 27, 61, 73, 93, 28], dtype=uint64))
+('Step: ', 63)
+('---obs, reward, done, info: ', [500L, 4L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([46, 72, 94, 49, 94, 74, 56, 76, 98,  6, 93, 99, 98, 18, 20, 31, 52,
+        7, 70, 32, 75, 68, 18, 72, 21], dtype=uint64))
+('Step: ', 64)
+('---obs, reward, done, info: ', [499L, 3L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([88, 83, 84,  7, 63, 77, 66, 40, 92, 78, 16,  1,  8, 94, 50, 42, 19,
+       97,  7, 63,  2, 64, 73, 76, 88], dtype=uint64))
+('Step: ', 65)
+('---obs, reward, done, info: ', [456L, 4L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([11, 93, 42, 93, 27, 44, 65, 57, 48, 33, 33, 77, 84, 11, 58,  2, 40,
+        1, 75,  5, 68, 84, 88, 15, 96], dtype=uint64))
+('Step: ', 66)
+('---obs, reward, done, info: ', [500L, 7L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([79, 88, 20, 87, 64, 23,  8, 18, 76, 23, 70, 96, 24, 99, 81, 53, 31,
+       97, 30, 69, 52, 68, 44, 49, 79], dtype=uint64))
+('Step: ', 67)
+('---obs, reward, done, info: ', [500L, 8L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([44, 21,  4, 56, 57, 37, 76, 85, 90, 65,  6, 47, 16, 69, 47,  0, 73,
+       93, 88, 21, 30, 79, 46,  1, 79], dtype=uint64))
+('Step: ', 68)
+('---obs, reward, done, info: ', [496L, 6L, 1L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([62, 43, 29, 59, 10, 78,  4, 99, 12, 45, 79, 22, 27, 42, 53, 48, 84,
+       30, 70, 93,  1, 26, 52, 77, 87], dtype=uint64))
+('Step: ', 69)
+('---obs, reward, done, info: ', [500L, 6L, 0L, 2L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([89, 14,  9, 40, 94, 64, 21, 54, 88, 77, 65, 11, 77, 80, 78, 92, 44,
+       48, 26,  8, 16, 32, 61,  6, 39], dtype=uint64))
+('Step: ', 70)
+('---obs, reward, done, info: ', [253L, 4L, 0L, 0L, 1L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 0, 51, 57, 57, 83, 44, 12, 77, 73, 72, 29, 59, 70,  4, 60, 30, 74,
+       86, 63, 91, 64, 40, 84, 71, 20], dtype=uint64))
+('Step: ', 71)
+('---obs, reward, done, info: ', [457L, 3L, 1L, 1L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([22, 79, 30, 38, 60, 27, 27,  5, 86, 10, 15, 70, 42, 15, 33, 90, 98,
+       36, 50, 77, 20, 56, 10, 19,  9], dtype=uint64))
+('Step: ', 72)
+('---obs, reward, done, info: ', [483L, 5L, 0L, 0L, 3L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([18, 23, 42, 92, 23,  7, 74, 46, 84, 78,  3, 12, 87, 71, 47, 96, 93,
+       15, 74, 10, 36, 83, 23, 66, 87], dtype=uint64))
+('Step: ', 73)
+('---obs, reward, done, info: ', [500L, 3L, 2L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 6, 32,  4, 97, 81, 76, 88, 10, 84, 29, 51, 39, 42, 78, 48, 29, 47,
+       31, 31, 27, 69, 57, 44, 52, 39], dtype=uint64))
+('Step: ', 74)
+('---obs, reward, done, info: ', [500L, 10L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([44, 88, 88, 85, 29, 90, 95, 44, 50, 82, 23, 77, 96, 26, 31, 73, 18,
+       25, 78, 74, 81, 29, 36, 81, 57], dtype=uint64))
+('Step: ', 75)
+('---obs, reward, done, info: ', [500L, 13L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([82, 57, 93, 79,  1, 13, 37, 37, 52, 70, 55, 82, 83, 77, 83, 57,  6,
+       69, 77, 40, 46, 25, 20, 14, 61], dtype=uint64))
+('Step: ', 76)
+('---obs, reward, done, info: ', [500L, 12L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 26,  32,  22,  93,  60,  37,  37,  45,  85,  77,  84,  30,  37,
+        12,  15,   3,  37,  38,  43, 100,  94,  85,  52,   8,  54],
+      dtype=uint64))
+('Step: ', 77)
+('---obs, reward, done, info: ', [500L, 13L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 19,  84,  54,  20,  76,  34, 100,   4,  77,  10,  33,  20,  85,
+        17,  79,  23,  62,  11,  18,  95,  79,   8,  97,  89,  44],
+      dtype=uint64))
+('Step: ', 78)
+('---obs, reward, done, info: ', [482L, 15L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([85,  8, 10, 76, 35, 28, 28, 82, 35, 85, 10, 27,  9, 68, 68, 19, 73,
+       45, 97, 36, 54, 60, 13, 28, 74], dtype=uint64))
+('Step: ', 79)
+('---obs, reward, done, info: ', [492L, 8L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 6, 35, 13,  3, 58,  4, 71, 44, 16, 11, 30, 15, 35, 90,  7, 11, 50,
+       68, 29, 41, 53, 41, 22,  0, 15], dtype=uint64))
+('Step: ', 80)
+('---obs, reward, done, info: ', [499L, 6L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([48, 80,  6, 65,  7, 98, 33,  2, 16, 68, 42, 15, 50, 16, 39,  7, 26,
+       98, 54, 65, 99, 74, 13,  6, 35], dtype=uint64))
+('Step: ', 81)
+('---obs, reward, done, info: ', [500L, 8L, 0L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([57, 25,  0, 52, 56, 58, 14, 83, 85, 54, 87, 93, 72, 19, 71, 54, 54,
+       40, 33, 56, 62, 83, 26, 89,  1], dtype=uint64))
+('Step: ', 82)
+('---obs, reward, done, info: ', [500L, 10L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 93,  36,  90,  59,  10,  83,  38,  40,   3,  62,  79, 100,  34,
+        96,  35,   5,   1,  57,  53,  42,   3,  46,   7,  88,  56],
+      dtype=uint64))
+('Step: ', 83)
+('---obs, reward, done, info: ', [483L, 6L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([21, 43, 54, 65, 70, 72, 11, 18, 43,  4, 83,  4, 51, 20, 64, 93, 45,
+        4, 98, 76, 45, 67, 29, 53, 35], dtype=uint64))
+('Step: ', 84)
+('---obs, reward, done, info: ', [500L, 6L, 3L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 3, 73, 92, 69, 14, 48, 68, 85, 55, 62,  0, 63, 83, 57, 97, 64, 25,
+       97, 52, 22, 16, 72,  7, 94, 21], dtype=uint64))
+('Step: ', 85)
+('---obs, reward, done, info: ', [500L, 6L, 3L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 10,  45,  75,  82,  88, 100,  66,  63,  58,  10,  83,  65,  51,
+        65,  68,  95,  37,  12,  40,  76,  35,  60,  26,  41,  70],
+      dtype=uint64))
+('Step: ', 86)
+('---obs, reward, done, info: ', [500L, 10L, 3L, 1L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 43,  38,  70,  57,  26,  60,  59,  52,  37,  81,  70,  52,  34,
+        38,  22,  68,  22,  82,  49,  13,  42, 100,  60,  69,  16],
+      dtype=uint64))
+('Step: ', 87)
+('---obs, reward, done, info: ', [500L, 7L, 5L, 0L, 1L, 2L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([62, 98,  8, 93, 71, 64,  4, 17, 90,  8, 48, 21, 93, 16, 80, 68, 16,
+       75, 78, 94, 64, 56, 40, 81, 97], dtype=uint64))
+('Step: ', 88)
+('---obs, reward, done, info: ', [331L, 3L, 0L, 1L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([46, 14, 92, 91, 26, 24, 17, 35, 52, 72,  6, 83, 23, 61, 10, 92, 32,
+       89, 42, 76, 94, 23, 42, 19, 61], dtype=uint64))
+('Step: ', 89)
+('---obs, reward, done, info: ', [484L, 0L, 3L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 66,  42,  69,  84, 100,  61,  44,  16,   9,  60,  92,  32,  85,
+        44,  69,  85,  84,  64,   7,  87,  57,  35,  57,  30,  14],
+      dtype=uint64))
+('Step: ', 90)
+('---obs, reward, done, info: ', [249L, 1L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 12,  68,  18,  31,   6,  12,   4, 100,  51,  40,  35,  43,  73,
+        56,  23,  28,  62,   6,  75,  80,  89,  66,  17,  46,   3],
+      dtype=uint64))
+('Step: ', 91)
+('---obs, reward, done, info: ', [499L, 4L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([62, 39, 22, 28, 47, 78, 72, 23, 62, 73, 62, 36, 39, 64, 32, 93,  6,
+       36, 82, 63, 12, 61, 22, 11, 16], dtype=uint64))
+('Step: ', 92)
+('---obs, reward, done, info: ', [456L, 3L, 0L, 1L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 78,  98,  48,  68,  31,  79,  43,  12,  74,  70,   4,  18,  27,
+        42,  29,   8,  47,  72,  81,  70,  17, 100,  56,  66,  32],
+      dtype=uint64))
+('Step: ', 93)
+('---obs, reward, done, info: ', [500L, 2L, 0L, 1L, 1L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([72, 92, 11, 38, 60,  0, 16, 45,  6, 28, 70,  4, 30, 97, 38, 49, 48,
+       37, 69, 38, 98, 74, 61, 11, 64], dtype=uint64))
+('Step: ', 94)
+('---obs, reward, done, info: ', [500L, 1L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([95,  5, 33, 77, 59, 26, 21, 62, 74,  6, 86, 58, 82, 69, 87, 21, 81,
+       10, 47, 63,  5, 33, 67, 76, 24], dtype=uint64))
+('Step: ', 95)
+('---obs, reward, done, info: ', [249L, 0L, 0L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([31,  7, 29, 90, 15, 40, 46, 79,  8,  5, 35, 11, 79, 44, 75, 40, 73,
+       72, 13, 89,  1, 55, 82, 81, 80], dtype=uint64))
+('Step: ', 96)
+('---obs, reward, done, info: ', [500L, 0L, 1L, 2L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([22, 98, 73, 53, 97, 19,  9, 15, 46, 37,  0, 46, 78, 86, 17, 39, 28,
+       30, 52, 83, 68, 57, 80, 91, 84], dtype=uint64))
+('Step: ', 97)
+('---obs, reward, done, info: ', [457L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([66, 87, 57, 62, 28, 44, 46,  1, 37, 70, 92, 59, 24, 59, 40,  6, 57,
+       45, 33, 43, 35,  2, 20, 46, 15], dtype=uint64))
+('Step: ', 98)
+('---obs, reward, done, info: ', [500L, 1L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([66, 83, 60, 26, 50, 12, 38, 97, 58, 19, 67, 88, 68, 79, 11, 30, 52,
+       70, 20, 83, 31,  3, 11, 11, 24], dtype=uint64))
+('Step: ', 99)
+('---obs, reward, done, info: ', [500L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 2, 47, 69, 32, 94, 79, 55,  6,  0, 70, 46, 82, 32, 15, 16, 64, 18,
+       36, 52, 18, 78, 36, 70, 99, 34], dtype=uint64))
+('Step: ', 100)
+('---obs, reward, done, info: ', [500L, 6L, 1L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([12, 87, 86, 49, 83, 71, 84, 18,  8, 24, 19, 13, 53, 78,  7, 99, 95,
+       34, 34, 79, 86, 91, 77, 66, 24], dtype=uint64))
+('Step: ', 101)
+('---obs, reward, done, info: ', [500L, 9L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([85, 95, 52, 78,  8, 60, 90, 71, 31, 19, 92, 31, 36, 40, 95, 35, 29,
+       42, 41, 32, 73, 54, 69, 62, 41], dtype=uint64))
+('Step: ', 102)
+('---obs, reward, done, info: ', [500L, 10L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([44, 95, 43, 48, 19, 64, 18, 23,  8, 73, 44, 54, 39, 73, 13, 82, 22,
+       97, 89, 46, 62,  4, 59, 94, 25], dtype=uint64))
+('Step: ', 103)
+('---obs, reward, done, info: ', [500L, 14L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 4, 55, 62,  9, 36, 88, 45, 10,  3, 81,  9, 30, 38, 19, 64, 87,  2,
+       85, 38, 11, 70, 14, 93, 71, 25], dtype=uint64))
+('Step: ', 104)
+('---obs, reward, done, info: ', [500L, 29L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([64, 23, 54, 61, 34, 12, 41, 88, 74, 14, 56, 85, 71, 71,  4, 70, 17,
+        9, 51, 55, 63, 40, 99,  6, 93], dtype=uint64))
+('Step: ', 105)
+('---obs, reward, done, info: ', [495L, 27L, 2L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([95, 34, 51, 13, 22, 68, 99, 80, 48, 59, 25, 44, 88, 26, 43, 85, 37,
+       99, 29, 15,  5, 66,  9, 89, 75], dtype=uint64))
+('Step: ', 106)
+('---obs, reward, done, info: ', [500L, 23L, 2L, 1L, 0L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([20,  5, 56, 23, 50, 13, 14, 86,  5,  8, 42, 98, 23, 37, 81,  7, 74,
+       27, 11, 57,  4, 23, 10, 27, 58], dtype=uint64))
+('Step: ', 107)
+('---obs, reward, done, info: ', [500L, 16L, 9L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 55, 100,  25,  31,  69,  34,  24,  23,  28,  49,  71,  95,  94,
+        45,  20,  43,  36,  64,  32,  26,  41,  69,  60,  83,  21],
+      dtype=uint64))
+('Step: ', 108)
+('---obs, reward, done, info: ', [500L, 5L, 3L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([62, 24,  6, 36, 95, 97,  1, 90, 22, 48,  4,  1, 25, 54, 31, 26, 88,
+       85, 65, 86, 76, 20, 79, 47, 24], dtype=uint64))
+('Step: ', 109)
+('---obs, reward, done, info: ', [495L, 5L, 2L, 1L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([91, 82, 46, 42, 43, 67, 53,  4, 63, 42,  9, 44, 48, 91, 31,  3, 36,
+       86,  0, 37, 29, 22, 79,  2, 93], dtype=uint64))
+('Step: ', 110)
+('---obs, reward, done, info: ', [500L, 4L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([24, 14, 19, 44, 62,  1, 50, 63, 61, 73, 62,  3, 43,  5, 69, 40, 98,
+       23, 59, 62, 24, 45, 60, 75, 10], dtype=uint64))
+('Step: ', 111)
+('---obs, reward, done, info: ', [325L, 0L, 0L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 8, 29, 81,  4, 65, 37, 25, 71, 60, 53, 34, 73, 53, 51, 54, 61, 91,
+       13, 66, 61, 71, 54,  4, 98, 47], dtype=uint64))
+('Step: ', 112)
+('---obs, reward, done, info: ', [500L, 1L, 0L, 2L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([42, 18, 91, 92,  8, 53, 31, 95, 79, 36, 75, 62, 70,  0, 79, 79, 92,
+       26, 40, 41, 65, 24, 29, 93, 92], dtype=uint64))
+('Step: ', 113)
+('---obs, reward, done, info: ', [500L, 1L, 1L, 1L, 0L, 0L, 1L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 2, 23, 78,  6,  9, 36, 25, 13, 13, 84, 79, 98, 49, 11,  9, 78, 93,
+       69, 43,  6, 52, 55, 79, 55, 37], dtype=uint64))
+('Step: ', 114)
+('---obs, reward, done, info: ', [309L, 0L, 3L, 1L, 0L, 0L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([72, 81, 34, 99, 10, 57, 74, 97, 12, 37, 37, 37, 95, 51, 43, 16, 62,
+       29, 40, 11, 63, 58, 83, 10, 22], dtype=uint64))
+('Step: ', 115)
+('---obs, reward, done, info: ', [500L, 0L, 1L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([14, 44, 64, 60, 13,  8, 68, 81, 37, 50, 37, 75,  9, 37, 75, 95, 32,
+       89, 47, 73, 60, 74, 12, 80, 31], dtype=uint64))
+('Step: ', 116)
+('---obs, reward, done, info: ', [459L, 4L, 0L, 3L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([76, 87, 38, 40, 54, 38, 34, 65,  4, 80, 89, 34, 39, 71, 93, 76, 58,
+        1, 79, 51, 26, 99, 75, 97, 34], dtype=uint64))
+('Step: ', 117)
+('---obs, reward, done, info: ', [500L, 4L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([69, 24,  6, 56, 50, 41, 66, 73, 22, 15, 76, 33, 72, 36, 52, 98,  3,
+       22,  5, 32,  4, 51, 73, 60, 31], dtype=uint64))
+('Step: ', 118)
+('---obs, reward, done, info: ', [500L, 3L, 0L, 1L, 1L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([20, 41, 65, 95, 16, 53, 90, 43, 21,  3, 79, 87, 25, 57, 13, 77, 46,
+        8, 81, 59, 21, 97, 22, 75, 10], dtype=uint64))
+('Step: ', 119)
+('---obs, reward, done, info: ', [500L, 7L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 12,  17,  49,  20,  96,  53,  57, 100,  97,  84,  67,  22,  51,
+        35,  12,   2,  97,  27,  65,  88,  98,  29,  25,  64,   7],
+      dtype=uint64))
+('Step: ', 120)
+('---obs, reward, done, info: ', [500L, 9L, 1L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 42,  36,  49,  89,  17,  10,  81,  23,  24,  19,  19,  23, 100,
+        69,  20,  26,  27,  99,  91,  46,  82,  42,  45,  52,  49],
+      dtype=uint64))
+('Step: ', 121)
+('---obs, reward, done, info: ', [500L, 7L, 5L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([21, 17, 94, 38, 35, 44, 80,  2, 19, 17, 73, 24, 23, 98, 50, 50,  9,
+       14, 52, 81, 99, 40, 86, 65, 50], dtype=uint64))
+('Step: ', 122)
+('---obs, reward, done, info: ', [500L, 7L, 7L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([53, 59, 54, 10, 20, 35, 48, 81, 46, 42, 21, 92, 86, 50, 63, 36, 49,
+       12,  4, 39, 84, 63, 11, 95, 49], dtype=uint64))
+('Step: ', 123)
+('---obs, reward, done, info: ', [326L, 5L, 8L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([86, 21, 66, 97, 56, 62, 29, 55,  0, 62, 25, 94, 94, 62, 17, 79, 13,
+       23, 32, 47, 25, 52, 10, 72, 41], dtype=uint64))
+('Step: ', 124)
+('---obs, reward, done, info: ', [500L, 0L, 14L, 1L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 51,  66,  35,  45,  29, 100,  67,  49,  33,  53,  51,  19,  98,
+        31,  89,  34,   4,  72,  36,   3, 100,  40,  43,   7,  77],
+      dtype=uint64))
+('Step: ', 125)
+('---obs, reward, done, info: ', [499L, 0L, 12L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([16, 34, 29, 19, 78, 18, 13, 94, 57,  1, 62, 72, 36, 26, 99, 76, 45,
+        5, 91, 42, 25, 29,  5, 14, 28], dtype=uint64))
+('Step: ', 126)
+('---obs, reward, done, info: ', [500L, 0L, 11L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 71,  10,  69,  86,  87,  23,  43,  10,  90,  98,   6,   7,  98,
+       100,  42,  14,  20,  77,  81,  54,  22,  14,  92,  63, 100],
+      dtype=uint64))
+('Step: ', 127)
+('---obs, reward, done, info: ', [483L, 0L, 8L, 2L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 15,   6,  39,  65, 100,  23,  75,  85, 100,  94,   8,  33,  84,
+        88,  56,  79,  45,  93,  21,  42,  70,  73,  55,  14,  32],
+      dtype=uint64))
+('Step: ', 128)
+('---obs, reward, done, info: ', [500L, 1L, 3L, 1L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 1, 74, 38,  1,  7, 90, 54, 31, 33, 28, 26, 22,  9, 91, 56, 55, 59,
+       53, 90, 95, 53, 99,  3, 16, 74], dtype=uint64))
+('Step: ', 129)
+('---obs, reward, done, info: ', [499L, 0L, 4L, 0L, 1L, 1L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([44, 94, 88,  5, 90, 16, 99,  0, 34, 73, 43, 69, 37, 54, 30, 84, 40,
+       24, 48, 21, 92, 38, 21, 40,  2], dtype=uint64))
+('Step: ', 130)
+('---obs, reward, done, info: ', [500L, 1L, 3L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([28,  8,  0, 84, 70, 36, 95, 53, 19, 26, 84, 51, 65, 94, 65, 97, 36,
+       50, 90, 26,  0, 97, 81, 26, 24], dtype=uint64))
+('Step: ', 131)
+('---obs, reward, done, info: ', [485L, 0L, 3L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 35, 100,  95,   7,  86,  63,  57,  83,  90,  65,  36,  32,  48,
+        22,  66,  14,  67,  72, 100,  10,  38,  37,  93,  12,  59],
+      dtype=uint64))
+('Step: ', 132)
+('---obs, reward, done, info: ', [500L, 2L, 3L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([76, 28, 30, 35, 46, 31,  3, 98, 75, 92, 95, 95, 96, 24, 62, 12, 41,
+       24, 71,  4, 60, 14, 43, 72, 25], dtype=uint64))
+('Step: ', 133)
+('---obs, reward, done, info: ', [313L, 0L, 3L, 2L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([14, 92, 54,  2, 57, 88,  2,  0, 80, 52, 91, 80, 66, 11, 54, 57, 28,
+       65, 51, 96, 80, 93, 81, 13, 73], dtype=uint64))
+('Step: ', 134)
+('---obs, reward, done, info: ', [499L, 0L, 1L, 0L, 2L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([68, 93, 72, 83, 84, 89, 25, 24, 33, 60, 52, 39, 41, 64, 96, 18, 82,
+       77, 27, 35, 52, 97, 25, 44, 14], dtype=uint64))
+('Step: ', 135)
+('---obs, reward, done, info: ', [500L, 4L, 0L, 0L, 0L, 3L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([26, 89, 76, 29, 68, 24, 29, 51, 39, 39, 59,  2, 96, 88, 22, 17, 75,
+       30,  5, 72, 54, 88, 59, 11, 96], dtype=uint64))
+('Step: ', 136)
+('---obs, reward, done, info: ', [500L, 11L, 0L, 0L, 0L, 0L, 0L, 1L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([85, 57, 36, 23,  1, 25, 31, 20, 34, 40, 62, 15, 41, 74, 31, 36, 66,
+       77, 18, 21, 44, 24, 53, 42, 43], dtype=uint64))
+('Step: ', 137)
+('---obs, reward, done, info: ', [500L, 8L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 17,  84,  65,   2,  51,  89,  86,  71,  23,  89,  43,  90,  12,
+        82,  82,   1,  89,  38,  39,  63,  50,  59,  69, 100,  62],
+      dtype=uint64))
+('Step: ', 138)
+('---obs, reward, done, info: ', [500L, 10L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 6, 93, 32, 74, 17, 22, 35, 82, 74, 93, 56,  5, 39, 16, 36, 62, 75,
+       76, 15, 57, 91,  7, 25, 67, 44], dtype=uint64))
+('Step: ', 139)
+('---obs, reward, done, info: ', [500L, 12L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([  0,  17,  44,  22,  82,  60,  38,  92,   4,  66,  56,  58,  72,
+        21,  58,   4,  17,  94,  84, 100,  45,  32,  28,  31,  97],
+      dtype=uint64))
+('Step: ', 140)
+('---obs, reward, done, info: ', [461L, 16L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 42,  78,  79,  68,  17,  71,  89,  97,  51,  10,  11,  53,  59,
+       100,  42,  28,  92,  48,  72,  42,   3,  89,  96,  27,  80],
+      dtype=uint64))
+('Step: ', 141)
+('---obs, reward, done, info: ', [500L, 13L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 8, 10, 91, 23, 97, 88, 11, 46, 75,  5, 72, 58, 68, 69, 10, 43,  8,
+       98, 36, 44, 56, 93,  6, 90,  0], dtype=uint64))
+('Step: ', 142)
+('---obs, reward, done, info: ', [320L, 11L, 3L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([33, 72, 42, 94, 78, 51, 61, 22, 64, 14, 21, 58,  6, 42, 97, 75, 51,
+       61, 63, 32, 47, 39,  2, 49, 22], dtype=uint64))
+('Step: ', 143)
+('---obs, reward, done, info: ', [500L, 15L, 3L, 2L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([60, 88, 46,  7, 50, 81, 32, 45, 83, 69, 80,  8, 23, 30,  4, 59, 91,
+       44, 77,  7, 33, 28, 52, 52, 81], dtype=uint64))
+('Step: ', 144)
+('---obs, reward, done, info: ', [499L, 12L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([65,  3, 58,  3, 29, 93, 61, 56, 68, 44, 84, 43, 27,  3, 30, 49, 26,
+       89, 66, 73, 51, 21, 69, 58, 81], dtype=uint64))
+('Step: ', 145)
+('---obs, reward, done, info: ', [500L, 9L, 2L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([91, 72, 15, 32, 20,  2, 17, 98, 64, 26, 68, 37, 96, 99, 12, 85,  4,
+       17, 33, 84, 77, 50, 25, 95, 17], dtype=uint64))
+('Step: ', 146)
+('---obs, reward, done, info: ', [499L, 7L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([71, 65, 84, 84, 89, 22,  9, 86, 63, 75, 12, 75, 31, 75, 32,  2, 48,
+       26, 30, 77, 37,  7, 71, 21, 55], dtype=uint64))
+('Step: ', 147)
+('---obs, reward, done, info: ', [499L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 33,  54,  54,  46,  39,  58,  25,  42,  73, 100,  25,  92,  45,
+         8,  56,  53,  44,  79,  58,  87,  32,  27,  13,  54,  11],
+      dtype=uint64))
+('Step: ', 148)
+('---obs, reward, done, info: ', [500L, 3L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([74, 75, 81, 37, 21, 56, 85, 43, 33, 11, 51, 90, 48, 54, 63, 53,  7,
+       86, 21, 54,  0, 17, 59, 66, 11], dtype=uint64))
+('Step: ', 149)
+('---obs, reward, done, info: ', [444L, 3L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([75, 52,  8, 66, 50, 35, 75, 27, 75, 42, 95, 61, 24, 47, 11, 75, 44,
+       83, 51, 11, 19, 92, 54, 37, 79], dtype=uint64))
+('Step: ', 150)
+('---obs, reward, done, info: ', [500L, 0L, 0L, 3L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([87,  6, 33, 16, 30, 99, 94, 19, 78, 69, 88, 40, 38, 19, 82, 20, 99,
+       48,  6, 15, 70, 39, 21, 13, 87], dtype=uint64))
+('Step: ', 151)
+('---obs, reward, done, info: ', [500L, 0L, 0L, 0L, 1L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([85, 28, 78, 85, 84, 68, 76,  2, 10, 71, 49, 36, 52, 71, 39, 97, 32,
+       83, 69, 21, 95, 19, 29, 30, 79], dtype=uint64))
+('Step: ', 152)
+('---obs, reward, done, info: ', [500L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([88,  1, 51,  5, 34,  9, 90, 15, 46, 43,  0, 10,  5, 46, 69,  7, 67,
+       93, 31, 78, 45, 83, 73, 52,  8], dtype=uint64))
+('Step: ', 153)
+('---obs, reward, done, info: ', [500L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([65, 74,  9, 65, 90, 72, 29, 34, 38, 23, 40, 62, 12, 85, 88, 17, 45,
+       45, 84, 28, 76, 53, 48,  0, 57], dtype=uint64))
+('Step: ', 154)
+('---obs, reward, done, info: ', [500L, 0L, 0L, 2L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([95, 23, 71, 10, 59, 83, 36, 74, 20, 71, 94,  6, 66, 36, 95, 53, 68,
+       37, 16, 35, 30, 34, 78, 84, 24], dtype=uint64))
+('Step: ', 155)
+('---obs, reward, done, info: ', [485L, 0L, 1L, 0L, 3L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([28, 22, 98, 88, 89, 39, 88, 92, 97, 35, 17, 53, 48, 74, 76, 25, 92,
+       60, 19, 28, 91, 73, 92, 11, 50], dtype=uint64))
+('Step: ', 156)
+('---obs, reward, done, info: ', [500L, 2L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([91, 85, 96, 74, 63, 31, 38, 79, 88, 58, 66, 35, 67, 79,  3, 73, 25,
+       20, 61, 30, 45, 40, 54, 85, 41], dtype=uint64))
+('Step: ', 157)
+('---obs, reward, done, info: ', [500L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([18, 21, 23, 62,  8, 94, 71, 33, 30, 90, 51, 62, 72, 20, 32, 19, 43,
+       95, 80, 46, 50, 77, 55, 16, 24], dtype=uint64))
+('Step: ', 158)
+('---obs, reward, done, info: ', [285L, 0L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 25,  49,  88,  86,  27,  97,  44,  47,  88,  76,  84,  55,  66,
+        51,  75,  55,  70,  94,  31,  81,  23,   4,  99,  55, 100],
+      dtype=uint64))
+('Step: ', 159)
+('---obs, reward, done, info: ', [500L, 0L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([64, 58, 64, 72, 98, 46, 77, 88, 84, 62, 18, 84, 42, 49, 72, 21, 27,
+        3, 88, 99, 72,  1, 96, 34, 72], dtype=uint64))
+('Step: ', 160)
+('---obs, reward, done, info: ', [499L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([84, 48, 60, 24, 33, 82, 81, 68, 31, 37, 86,  4,  5, 34, 17, 19, 87,
+       12, 52, 71, 30, 50, 97,  3, 81], dtype=uint64))
+('Step: ', 161)
+('---obs, reward, done, info: ', [500L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([44, 15, 21,  4, 15,  2, 71, 45, 89, 88, 39, 50, 97, 40, 47, 44, 57,
+       29, 21, 46, 82, 75, 20, 52, 21], dtype=uint64))
+('Step: ', 162)
+('---obs, reward, done, info: ', [489L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([23, 27, 33, 38, 91, 26, 33, 46, 98, 97, 28, 17, 20, 87, 83, 54, 97,
+       57, 27, 13, 44, 71, 22,  5, 45], dtype=uint64))
+('Step: ', 163)
+('---obs, reward, done, info: ', [500L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([34, 10, 44, 40, 40, 62,  4, 92, 80, 16, 57, 33, 74, 59, 86, 18, 50,
+       43, 79, 87, 81, 64, 72, 34, 61], dtype=uint64))
+('Step: ', 164)
+('---obs, reward, done, info: ', [287L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([51, 92, 75, 73,  1, 15, 58, 76, 32, 23,  1, 58, 74, 97,  9, 19, 25,
+       38, 76, 82, 65, 18,  2, 37,  4], dtype=uint64))
+('Step: ', 165)
+('---obs, reward, done, info: ', [500L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([65, 32, 17, 69, 85, 93, 67, 15, 26, 75, 79, 47, 78, 55, 97, 16, 78,
+       70, 25, 42, 81,  9, 33, 96, 87], dtype=uint64))
+('Step: ', 166)
+('---obs, reward, done, info: ', [500L, 0L, 0L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([41, 68, 59, 81,  6, 48, 66, 52, 54, 46, 65, 20, 94, 65, 27, 86, 58,
+       27, 14, 53,  5, 87, 86, 18, 84], dtype=uint64))
+('Step: ', 167)
+('---obs, reward, done, info: ', [500L, 0L, 0L, 3L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([36, 15,  1, 93, 92, 53, 99,  7, 46, 67,  0, 66, 60, 16, 35, 10, 42,
+       92, 81, 36, 65, 50, 75, 95,  9], dtype=uint64))
+('Step: ', 168)
+('---obs, reward, done, info: ', [492L, 0L, 0L, 5L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([57, 55, 31, 10, 39, 17, 81, 37, 66, 44,  3, 49, 89, 95, 55, 86, 20,
+       18, 15, 36, 17, 60, 98, 94, 29], dtype=uint64))
+('Step: ', 169)
+('---obs, reward, done, info: ', [500L, 0L, 0L, 2L, 6L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([72, 81, 87, 25, 74, 46, 99, 26, 19, 40, 94,  3, 83, 24, 11, 75, 38,
+       66, 56, 81, 48, 10, 99, 37,  6], dtype=uint64))
+('Step: ', 170)
+('---obs, reward, done, info: ', [485L, 1L, 0L, 0L, 4L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([68, 27, 92, 46, 66, 32, 48, 12, 56, 17, 20, 98, 24, 82, 40, 85, 41,
+       40, 66, 37, 14, 40, 88, 53,  2], dtype=uint64))
+('Step: ', 171)
+('---obs, reward, done, info: ', [373L, 0L, 0L, 0L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 97,  13,  68,  98,  13,  80,  68,  94,  41,  37,  79,  66,  96,
+        32,  60,  25,  21,  28,  80, 100,  82,  53,  79,  50,  19],
+      dtype=uint64))
+('Step: ', 172)
+('---obs, reward, done, info: ', [500L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([77, 71, 92, 30, 80, 79,  0, 31, 37,  6, 63, 53, 77, 48, 83, 80, 56,
+       11, 97, 18, 78,  4, 21, 24, 93], dtype=uint64))
+('Step: ', 173)
+('---obs, reward, done, info: ', [500L, 2L, 0L, 0L, 0L, 1L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([59, 92,  2, 67, 85, 56, 50, 97, 74, 47, 32, 52, 44,  9, 92, 44, 46,
+       39, 95, 39, 13, 65,  3, 44, 92], dtype=uint64))
+('Step: ', 174)
+('---obs, reward, done, info: ', [500L, 2L, 0L, 0L, 0L, 1L, 0L, 1L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([32, 60, 84, 59, 62, 79, 72, 77, 52, 22, 31, 30, 67, 91, 26,  2, 54,
+       64, 25, 87,  9, 15, 83, 13, 50], dtype=uint64))
+('Step: ', 175)
+('---obs, reward, done, info: ', [286L, 2L, 1L, 0L, 0L, 1L, 0L, 1L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([  7,   8,  42,  19,  22,   8,  68,  74,   8,  52, 100,  29,  12,
+        21,  26,  40,  11,  11,   6,  72,  18,  21,  95,  16,  51],
+      dtype=uint64))
+('Step: ', 176)
+('---obs, reward, done, info: ', [500L, 2L, 1L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([59, 29, 86, 14,  6, 61, 83, 95, 13, 49, 39, 48, 31, 50, 27, 32, 79,
+       50, 15,  8, 15, 39, 54,  9, 90], dtype=uint64))
+('Step: ', 177)
+('---obs, reward, done, info: ', [500L, 0L, 3L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([35, 85, 89, 21, 99, 25, 80, 55, 30, 10, 64, 89, 91, 13, 47, 84, 93,
+       77, 81, 32,  4, 33, 25, 22, 27], dtype=uint64))
+('Step: ', 178)
+('---obs, reward, done, info: ', [500L, 1L, 6L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([17, 85, 27, 58, 56, 32, 36, 71, 97, 47,  5, 51, 27, 85,  5, 41, 17,
+        5,  1, 17, 32, 94, 73, 54, 16], dtype=uint64))
+('Step: ', 179)
+('---obs, reward, done, info: ', [499L, 4L, 2L, 1L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 72,  57,  39,  69,   5,  84,  28,  56,  10,  21,   8,  73,  66,
+         3,  68,  77,  85,  60,  81,  67,  44,  38,  72, 100,  75],
+      dtype=uint64))
+('Step: ', 180)
+('---obs, reward, done, info: ', [500L, 4L, 1L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([46, 57, 77, 57,  9, 49, 59, 28, 23, 20, 65, 53, 36,  3, 34, 63, 14,
+        2, 82, 16, 57, 55, 93, 76, 68], dtype=uint64))
+('Step: ', 181)
+('---obs, reward, done, info: ', [284L, 2L, 2L, 0L, 1L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([31, 17, 87, 31, 77, 84, 87,  7, 41,  2, 72, 17, 66,  1, 34, 35, 58,
+       69, 99, 19, 29, 40, 68, 65, 60], dtype=uint64))
+('Step: ', 182)
+('---obs, reward, done, info: ', [484L, 0L, 3L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([69, 45, 70, 80, 95, 78, 35, 98, 94, 89, 41, 65, 89, 97, 60, 44,  1,
+       79, 21, 55, 19, 25, 40, 14, 61], dtype=uint64))
+('Step: ', 183)
+('---obs, reward, done, info: ', [491L, 2L, 5L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 0, 64, 89, 86, 57, 13, 39, 77, 84, 74,  8, 43, 87, 25,  5, 96, 37,
+       53, 65, 99, 64, 28,  3, 97, 32], dtype=uint64))
+('Step: ', 184)
+('---obs, reward, done, info: ', [500L, 1L, 3L, 3L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([25, 71, 27, 87, 57, 56, 63, 51, 70,  0, 91, 25,  3, 14, 37, 32, 72,
+       85, 24,  8, 14, 64, 55, 94,  7], dtype=uint64))
+('Step: ', 185)
+('---obs, reward, done, info: ', [497L, 0L, 3L, 3L, 0L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 44,   8,  29,   2,  47,  69,  64,  79,  82,  75,   1, 100,  74,
+        84,  80,  53,  70,  95,  90,  13,  16,  65,  33,  45,  96],
+      dtype=uint64))
+('Step: ', 186)
+('---obs, reward, done, info: ', [500L, 0L, 2L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([48,  0, 70, 18, 82, 96, 11, 81, 54, 41, 46, 38, 81, 96, 78, 62, 62,
+       38, 47, 67, 86, 49, 49, 64, 60], dtype=uint64))
+('Step: ', 187)
+('---obs, reward, done, info: ', [500L, 0L, 1L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([69,  4, 40, 46, 71, 86, 44, 13, 70, 74, 95, 25, 38, 32,  7, 29, 89,
+       55, 23, 19, 71, 76,  7, 22, 66], dtype=uint64))
+('Step: ', 188)
+('---obs, reward, done, info: ', [500L, 0L, 2L, 0L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([63, 92, 88, 79, 93, 80, 34, 84, 89,  4, 15, 48, 69, 60, 51, 90, 86,
+       91, 24, 45, 78, 99, 79, 28,  7], dtype=uint64))
+('Step: ', 189)
+('---obs, reward, done, info: ', [500L, 2L, 3L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 77,  39,  20,  39,  87,  18,  14,  70,  24,  31,  22,   8,  34,
+        31,  98,   4, 100,  92,  11,   2,  86,  75,  22,  14,  73],
+      dtype=uint64))
+('Step: ', 190)
+('---obs, reward, done, info: ', [493L, 2L, 1L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([60,  4, 19, 73, 33, 68, 18, 69, 99, 88, 23, 14, 50, 90, 58,  3, 17,
+       65, 67, 78, 97, 32, 15, 45, 79], dtype=uint64))
+('Step: ', 191)
+('---obs, reward, done, info: ', [498L, 0L, 0L, 4L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([63, 66, 71, 94,  1, 86, 90, 53, 14, 68, 35, 36, 82, 82, 48,  0, 61,
+       62, 74, 56,  9, 94,  0, 58, 72], dtype=uint64))
+('Step: ', 192)
+('---obs, reward, done, info: ', [500L, 2L, 1L, 3L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 15,  64,  12,  69,   5,   3,  21,  30,  97,   4,  59,  45,   4,
+        86,   4,  22,  47,  14,  95,  35,  50,  29, 100,  99,  49],
+      dtype=uint64))
+('Step: ', 193)
+('---obs, reward, done, info: ', [500L, 4L, 0L, 3L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 26,  14,  84,  85,  42,  29,  85,  18,  53,  86,  53,  42,  38,
+        25,  71, 100,  32,  22,  93,  80,  25,  34,  91,  59,  12],
+      dtype=uint64))
+('Step: ', 194)
+('---obs, reward, done, info: ', [481L, 3L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([79, 59, 54, 22, 41, 32, 49, 14, 65,  9, 36, 56, 78, 22, 14,  5,  7,
+       43, 73, 75, 23, 74,  6, 19, 98], dtype=uint64))
+('Step: ', 195)
+('---obs, reward, done, info: ', [500L, 3L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([54, 22, 90, 46, 51, 37, 12, 26, 94, 47, 45, 91,  9, 93, 77, 27, 14,
+       62, 58, 17, 93, 73,  8,  1, 82], dtype=uint64))
+('Step: ', 196)
+('---obs, reward, done, info: ', [500L, 2L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([18, 13, 72, 11, 88, 57, 28, 43, 26, 33, 35, 85, 40, 79, 69,  1, 55,
+       34, 29,  1, 80, 10, 81, 23, 42], dtype=uint64))
+('Step: ', 197)
+('---obs, reward, done, info: ', [420L, 0L, 13L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([43, 61, 68, 22,  4, 20,  2, 43, 33, 38,  5, 34, 54, 39, 31, 22, 12,
+       60, 88, 47, 33, 78,  2, 49,  3], dtype=uint64))
+('Step: ', 198)
+('---obs, reward, done, info: ', [500L, 2L, 13L, 1L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([50, 88, 92, 63, 24, 68, 44, 15, 18, 80, 99,  7, 16, 20, 93, 57, 13,
+       30, 69, 65, 56, 90, 98, 63, 34], dtype=uint64))
+('Step: ', 199)
+('---obs, reward, done, info: ', [493L, 2L, 12L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([78, 31, 62,  8, 27, 67, 93,  2, 26, 67, 80, 14, 84, 80, 27, 87, 76,
+       49, 16, 33, 10, 92, 18, 68, 85], dtype=uint64))
+('Step: ', 200)
+('---obs, reward, done, info: ', [495L, 3L, 14L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([73, 26,  1, 41, 96, 73, 34, 28,  9, 53, 57, 15, 91,  5,  2, 47, 21,
+        4, 21,  1, 86, 74,  3, 52, 68], dtype=uint64))
+('Step: ', 201)
+('---obs, reward, done, info: ', [493L, 2L, 5L, 6L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 43,  22,  44,  61,   6,  35,  48,  77,  48,  29,  92,  84,  78,
+        46,  38, 100,  57,  83,   5,  75,  86,  68,  62,   8,  34],
+      dtype=uint64))
+('Step: ', 202)
+('---obs, reward, done, info: ', [500L, 1L, 1L, 11L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([84, 76, 36, 80, 73, 43, 36, 83,  4, 52, 88, 56, 13, 41, 40, 78, 52,
+       97, 57, 57, 80, 88, 10, 43, 31], dtype=uint64))
+('Step: ', 203)
+('---obs, reward, done, info: ', [485L, 0L, 0L, 11L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 2, 52, 66, 95, 96, 30, 43, 55, 39, 25, 47, 56, 11, 34, 87, 48, 32,
+       24, 26,  3,  7,  3, 21, 53, 88], dtype=uint64))
+('Step: ', 204)
+('---obs, reward, done, info: ', [332L, 0L, 0L, 10L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([17, 39, 25,  8, 42, 88, 28, 21, 15, 72, 81, 75, 64, 49, 67, 24,  9,
+       21, 72, 54, 45, 38, 89, 79,  8], dtype=uint64))
+('Step: ', 205)
+('---obs, reward, done, info: ', [500L, 3L, 0L, 8L, 0L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([23, 50, 49, 85, 25, 41, 77, 31, 81, 56, 69, 87, 43, 32, 30, 84, 28,
+       86, 85, 39,  8, 44, 55, 64, 40], dtype=uint64))
+('Step: ', 206)
+('---obs, reward, done, info: ', [444L, 4L, 0L, 7L, 0L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([74, 73, 13, 17, 91, 30, 87, 18, 13, 44, 95, 26, 92, 59, 51, 99, 93,
+       15, 61, 75, 45,  3, 98, 98, 86], dtype=uint64))
+('Step: ', 207)
+('---obs, reward, done, info: ', [500L, 4L, 0L, 5L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([76, 77, 38, 23, 95,  3, 21, 35, 47, 77, 34, 39, 38, 75, 43, 60,  9,
+       57, 53, 22, 10, 41, 23, 85, 61], dtype=uint64))
+('Step: ', 208)
+('---obs, reward, done, info: ', [500L, 5L, 0L, 0L, 3L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 47,  79,  79,  23,  75,  30,  20,  27,  50,  51,  32,  58,  80,
+        58,  77,  50, 100,   0,  87,  27,  90,  93,   2,  97,  44],
+      dtype=uint64))
+('Step: ', 209)
+('---obs, reward, done, info: ', [475L, 7L, 0L, 0L, 1L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([94, 92, 14,  7, 90, 38, 75, 84, 10, 77, 15,  9, 50, 23, 47, 91, 51,
+       49, 17, 61, 23, 62, 50, 68, 22], dtype=uint64))
+('Step: ', 210)
+('---obs, reward, done, info: ', [500L, 8L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([47, 47, 91, 82, 98, 12, 69, 74, 38, 15, 93, 47, 43, 72, 55, 29, 12,
+        5, 35, 32, 25,  9, 19, 78,  4], dtype=uint64))
+('Step: ', 211)
+('---obs, reward, done, info: ', [500L, 8L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([48, 81, 50, 70, 77, 45, 84,  2, 17, 60, 21, 84, 53, 90, 25, 85, 92,
+       16, 71, 54, 58, 88, 76, 51, 29], dtype=uint64))
+('Step: ', 212)
+('---obs, reward, done, info: ', [500L, 9L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 3, 91,  5, 24, 97, 24, 46, 47, 92, 41, 64, 43, 22, 27, 95, 20, 58,
+        8, 48, 13, 62, 39, 35, 43, 37], dtype=uint64))
+('Step: ', 213)
+('---obs, reward, done, info: ', [500L, 8L, 0L, 0L, 1L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([100,  83,  53,  38,   6,  78,  26,  79,  54,  91,  16,  86,  25,
+        36,  57,  66,  21,  15,  86,  28,  80,  84,  10,  51,  41],
+      dtype=uint64))
+('Step: ', 214)
+('---obs, reward, done, info: ', [500L, 9L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([99, 52, 81, 70, 12, 10, 52,  8, 91, 48, 60, 84, 10,  5, 45, 82, 32,
+       33, 42, 53, 38, 70, 40, 68, 87], dtype=uint64))
+('Step: ', 215)
+('---obs, reward, done, info: ', [333L, 8L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([87, 68, 77, 73, 89, 72, 72, 92, 60, 93, 77, 47, 12, 91, 21, 75,  2,
+       27,  1, 54, 93, 58, 74, 95, 49], dtype=uint64))
+('Step: ', 216)
+('---obs, reward, done, info: ', [477L, 7L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 78,  21,  64,   2,  64,  98,  85,  66,  56,  79,  58,   8, 100,
+        49,  30,  14,  57,   2,  16,   0,  55,  19,  81,  41,  75],
+      dtype=uint64))
+('Step: ', 217)
+('---obs, reward, done, info: ', [473L, 5L, 3L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([81, 59, 39, 94, 18, 65, 97, 65, 87, 15, 98, 77, 26, 11, 33, 51, 10,
+       78, 31, 13, 15, 36, 47, 55, 62], dtype=uint64))
+('Step: ', 218)
+('---obs, reward, done, info: ', [500L, 6L, 1L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([87, 67, 14, 64, 18, 65, 89, 23, 26, 85, 49, 43, 39, 18, 11, 75, 35,
+       87, 98, 38, 59,  8,  3, 44, 77], dtype=uint64))
+('Step: ', 219)
+('---obs, reward, done, info: ', [500L, 6L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 46,  85,  97,  27,  26,   0,  20,  95,  24,   6,  52,  39,  63,
+        69,   3,  35,  73,  80,  22,  57, 100,  23,  30,  75,  88],
+      dtype=uint64))
+('Step: ', 220)
+('---obs, reward, done, info: ', [475L, 8L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([49, 71, 13, 64, 70, 31, 31, 45, 70, 42, 89, 11, 65, 55, 98, 57, 88,
+       10, 46, 84, 92, 84, 18, 88, 96], dtype=uint64))
+('Step: ', 221)
+('---obs, reward, done, info: ', [500L, 10L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 35,  92,  32,  28,  57,   8,  44,  19,  86,  60,  46,   1,  11,
+       100,  36,  42,  42,  42,  17,  49,  98,  17,  87,  46,  14],
+      dtype=uint64))
+('Step: ', 222)
+('---obs, reward, done, info: ', [500L, 11L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 7, 54, 96,  4, 53, 15, 51, 53, 40, 45, 32, 53, 91, 60,  1, 67, 29,
+       73, 30, 75, 82, 60, 29, 43, 21], dtype=uint64))
+('Step: ', 223)
+('---obs, reward, done, info: ', [500L, 13L, 0L, 0L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([31, 87, 44, 48, 54, 77, 27, 92,  0, 94, 12, 27, 41, 62, 33, 92, 78,
+       16, 28, 34, 75, 12, 52, 23, 61], dtype=uint64))
+('Step: ', 224)
+('---obs, reward, done, info: ', [500L, 17L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([44, 34, 45, 38, 49, 17, 62, 16, 16, 94, 95, 38, 52, 16, 45, 28, 61,
+        6, 65, 32, 81, 52, 92, 28, 80], dtype=uint64))
+('Step: ', 225)
+('---obs, reward, done, info: ', [465L, 16L, 3L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([  0,  39,  88,  21,  89,  29,  45,   3,  68,  21, 100,   7, 100,
+         6,  63,  31,  91,  41,  54,  42,  55,  22,  41,  99,  95],
+      dtype=uint64))
+('Step: ', 226)
+('---obs, reward, done, info: ', [500L, 18L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([85, 89, 41, 80, 95, 72, 99, 18, 49,  0, 20, 84, 12,  0, 69, 68, 81,
+       83, 65, 25, 38,  2,  9, 92, 83], dtype=uint64))
+('Step: ', 227)
+('---obs, reward, done, info: ', [444L, 16L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 71, 100,  97,  20,  82,  45,  12,  77,  33,  94,  14,  24,  63,
+        24,  36,  16,  48,  37,  11,  77,  20,  54,  28,  63,  26],
+      dtype=uint64))
+('Step: ', 228)
+('---obs, reward, done, info: ', [500L, 13L, 1L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([64, 38, 26, 31, 82, 72, 48, 44, 50, 98,  9, 10, 69, 23,  1,  5, 96,
+       70, 98, 95, 66, 79, 39, 68, 88], dtype=uint64))
+('Step: ', 229)
+('---obs, reward, done, info: ', [499L, 13L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([  0,   3,  42,   0,   9,  23,  49,  60,  69,  55,  99,  42,  70,
+       100,  94,  68,  87,   0,  89,  21,  24,  82,  71,  54,  92],
+      dtype=uint64))
+('Step: ', 230)
+('---obs, reward, done, info: ', [289L, 0L, 15L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([36, 10, 97, 64,  4, 89, 89, 90, 74, 48, 26, 88, 83, 76, 39, 70, 26,
+       38, 87,  6, 84, 35, 89, 31, 27], dtype=uint64))
+('Step: ', 231)
+('---obs, reward, done, info: ', [500L, 0L, 16L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([11, 98, 54,  6, 34, 60, 42, 14, 17,  6, 18, 58, 26,  9, 39, 89, 89,
+       33, 58, 93, 48, 85, 20, 24, 55], dtype=uint64))
+('Step: ', 232)
+('---obs, reward, done, info: ', [500L, 1L, 14L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([25, 88,  0, 87, 84, 29, 48,  3, 64, 65, 42, 57, 17, 56, 21, 89, 99,
+       60,  1, 90,  9,  0, 39, 99, 69], dtype=uint64))
+('Step: ', 233)
+('---obs, reward, done, info: ', [500L, 0L, 13L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([ 3, 67, 59, 35, 46,  8, 89, 28, 49, 48, 16,  3, 55, 63, 69, 87, 75,
+        9, 16, 46, 18, 45, 95, 62, 75], dtype=uint64))
+('Step: ', 234)
+('---obs, reward, done, info: ', [500L, 4L, 10L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([24, 24, 10, 97, 92, 23, 92, 95, 38, 50, 76, 90, 10, 80, 89, 32, 65,
+       99, 83, 63, 81, 92, 54,  1, 80], dtype=uint64))
+('Step: ', 235)
+('---obs, reward, done, info: ', [497L, 6L, 2L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([23, 85,  4,  4, 42, 15, 93, 30, 19, 99, 99, 98, 19, 74,  7,  3, 14,
+       92, 93, 27, 17, 46, 17, 91, 36], dtype=uint64))
+('Step: ', 236)
+('---obs, reward, done, info: ', [500L, 5L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([77,  1, 56, 46, 85, 41, 40, 60, 45,  6, 72, 53, 44, 50, 29, 91,  2,
+        6, 20, 92, 89, 87, 29, 29, 97], dtype=uint64))
+('Step: ', 237)
+('---obs, reward, done, info: ', [497L, 0L, 3L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([94, 17, 21, 93, 82, 74, 50, 18, 86, 16, 24,  7, 20, 84, 21, 56, 39,
+       47, 96, 19, 85, 30, 83, 45, 61], dtype=uint64))
+('Step: ', 238)
+('---obs, reward, done, info: ', [500L, 0L, 0L, 4L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 1.0, False, u'currentNodeId=24')
+('---action: ', array([66, 18, 54, 32, 95, 64, 10, 28, 95, 49, 59, 98,  8, 57, 78, 44, 29,
+        6, 83, 30,  9, 69, 82, 99, 13], dtype=uint64))
+('Step: ', 239)
+('---obs, reward, done, info: ', [498L, 0L, 0L, 1L, 2L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L], 0.0, True, u'currentNodeId=24')
+Done

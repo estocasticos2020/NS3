@@ -1,0 +1,443 @@
+Waf: Entering directory `/home/jdsm/Semestre_10/Estocaticos/NS-3/ns-allinone-3.30.1/ns-3.30.1/build'
+[2249/2508] Compiling contrib/opengym/examples/linearmesh2/sim.cc
+[2467/2508] Linking build/contrib/opengym/examples/ns3.30.1-linearmesh2-debug
+Waf: Leaving directory `/home/jdsm/Semestre_10/Estocaticos/NS-3/ns-allinone-3.30.1/ns-3.30.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (9.586s)
+Ns3Env parameters:
+--simulationTime: 10
+--openGymPort: 5555
+--envStepTime: 0.1
+--seed: 1
+--distance: 10
+--testArg: 0
+dataRateStr: OfdmRate2_25MbpsBW5MHz
+Node Positions:
+---Node ID: 0 Positions: 0:0:0
+---Node ID: 1 Positions: 10:0:0
+---Node ID: 2 Positions: 20:0:0
+---Node ID: 3 Positions: 30:0:0
+---Node ID: 4 Positions: 40:0:0
+---Node ID: 5 Positions: 50:0:0
+---Node ID: 6 Positions: 60:0:0
+---Node ID: 7 Positions: 70:0:0
+---Node ID: 8 Positions: 80:0:0
+---Node ID: 9 Positions: 90:0:0
+---Node ID: 10 Positions: 100:0:0
+---Node ID: 11 Positions: 110:0:0
+---Node ID: 12 Positions: 120:0:0
+---Node ID: 13 Positions: 130:0:0
+---Node ID: 14 Positions: 140:0:0
+---Node ID: 15 Positions: 150:0:0
+---Node ID: 16 Positions: 160:0:0
+---Node ID: 17 Positions: 170:0:0
+---Node ID: 18 Positions: 180:0:0
+---Node ID: 19 Positions: 190:0:0
+Simulation start
+Node with ID 19 received 1 packets
+GetObservationSpace:  BoxSpace Low: 0 High: 100 Shape: (20,) Dtype: uint32_t
+GetActionSpace:  BoxSpace Low: 0 High: 100 Shape: (20,) Dtype: uint32_t
+Simulation process id: 17847 (parent (waf shell) id: 17829)
+Waiting for Python process to connect on port: tcp://localhost:5555
+Please start proper Python Gym Agent
+MyGetObservation: [500, 16, 28, 5, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [44, 62, 64, 33, 29, 18, 31, 19, 66, 21, 66, 7, 23, 48, 34, 6, 96, 67, 14, 76]
+Node with ID 19 received 2 packets
+MyGetObservation: [500, 17, 27, 5, 0, 3, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [20, 64, 94, 53, 9, 96, 53, 11, 13, 74, 54, 38, 91, 68, 13, 76, 78, 97, 52, 13]
+Node with ID 19 received 3 packets
+MyGetObservation: [499, 17, 26, 6, 0, 3, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [19, 73, 8, 67, 87, 78, 88, 100, 66, 53, 3, 28, 59, 82, 27, 59, 69, 10, 41, 85]
+Node with ID 19 received 4 packets
+MyGetObservation: [500, 21, 14, 14, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [48, 31, 39, 83, 98, 8, 100, 16, 4, 32, 43, 68, 15, 84, 83, 48, 95, 48, 43, 51]
+Node with ID 19 received 5 packets
+MyGetObservation: [500, 22, 13, 14, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [98, 0, 76, 36, 62, 7, 54, 95, 9, 61, 22, 46, 49, 42, 26, 40, 19, 94, 96, 88]
+Node with ID 19 received 6 packets
+MyGetObservation: [494, 9, 12, 11, 3, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [83, 61, 17, 63, 41, 2, 86, 71, 31, 42, 88, 26, 4, 78, 87, 75, 98, 42, 100, 9]
+Node with ID 19 received 7 packets
+MyGetObservation: [500, 9, 12, 11, 3, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [64, 68, 30, 30, 12, 97, 84, 56, 1, 55, 73, 45, 32, 78, 52, 48, 35, 85, 5, 1]
+Node with ID 19 received 8 packets
+MyGetObservation: [500, 9, 11, 6, 2, 0, 1, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [22, 79, 16, 8, 1, 23, 83, 61, 78, 55, 73, 53, 18, 25, 94, 43, 70, 66, 53, 22]
+Node with ID 19 received 9 packets
+MyGetObservation: [491, 6, 9, 7, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [72, 73, 82, 23, 35, 7, 67, 64, 41, 70, 81, 82, 32, 69, 35, 75, 6, 79, 12, 15]
+Node with ID 19 received 10 packets
+MyGetObservation: [500, 10, 8, 3, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [27, 63, 56, 96, 41, 55, 28, 9, 82, 44, 49, 10, 95, 16, 70, 56, 87, 49, 69, 18]
+Node with ID 19 received 11 packets
+MyGetObservation: [500, 11, 7, 3, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [13, 88, 88, 20, 26, 14, 39, 60, 51, 81, 70, 3, 91, 43, 50, 91, 61, 76, 87, 29]
+Node with ID 19 received 12 packets
+MyGetObservation: [500, 15, 5, 1, 2, 0, 0, 1, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [78, 100, 88, 52, 29, 79, 97, 72, 99, 34, 29, 39, 38, 100, 32, 42, 62, 49, 19, 35]
+Node with ID 19 received 13 packets
+MyGetObservation: [500, 16, 5, 1, 1, 1, 0, 1, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [67, 51, 31, 89, 45, 50, 40, 4, 1, 17, 39, 19, 31, 57, 63, 55, 3, 30, 71, 51]
+Node with ID 19 received 14 packets
+MyGetObservation: [496, 14, 4, 3, 0, 1, 1, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [53, 70, 96, 73, 2, 64, 72, 93, 64, 4, 41, 46, 15, 63, 37, 51, 100, 98, 83, 55]
+Node with ID 19 received 15 packets
+MyGetObservation: [500, 18, 4, 5, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [67, 88, 39, 3, 36, 38, 82, 75, 4, 32, 81, 0, 51, 15, 25, 44, 78, 24, 27, 42]
+Node with ID 19 received 16 packets
+MyGetObservation: [496, 20, 5, 4, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [0, 54, 16, 11, 42, 46, 34, 90, 75, 31, 54, 4, 68, 2, 37, 66, 71, 43, 68, 58]
+Node with ID 19 received 17 packets
+MyGetObservation: [500, 20, 4, 3, 0, 1, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [89, 11, 32, 65, 24, 13, 63, 25, 11, 99, 8, 59, 69, 12, 9, 20, 71, 40, 69, 58]
+Node with ID 19 received 18 packets
+MyGetObservation: [498, 16, 5, 4, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [76, 10, 38, 79, 45, 40, 31, 22, 52, 40, 41, 2, 81, 10, 21, 92, 44, 9, 30, 45]
+Node with ID 19 received 19 packets
+MyGetObservation: [495, 16, 6, 4, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [69, 34, 70, 78, 87, 32, 46, 76, 17, 14, 15, 78, 83, 53, 9, 50, 6, 9, 36, 15]
+Node with ID 19 received 20 packets
+MyGetObservation: [80, 9, 10, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [8, 18, 70, 45, 43, 41, 52, 77, 33, 40, 100, 66, 59, 40, 73, 84, 24, 71, 12, 55]
+Node with ID 19 received 21 packets
+MyGetObservation: [500, 13, 11, 3, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [8, 29, 26, 3, 55, 16, 45, 48, 79, 30, 84, 41, 74, 90, 26, 64, 55, 12, 97, 14]
+Node with ID 19 received 22 packets
+MyGetObservation: [500, 13, 11, 2, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [14, 52, 37, 95, 31, 57, 38, 94, 17, 8, 90, 66, 64, 47, 53, 96, 80, 32, 55, 83]
+Node with ID 19 received 23 packets
+MyGetObservation: [500, 14, 9, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [20, 62, 90, 8, 14, 67, 40, 74, 27, 63, 12, 81, 68, 9, 84, 76, 58, 78, 45, 18]
+Node with ID 19 received 24 packets
+MyGetObservation: [500, 11, 11, 0, 2, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [51, 56, 55, 50, 5, 68, 20, 11, 30, 10, 63, 84, 54, 14, 49, 61, 45, 99, 35, 53]
+Node with ID 19 received 25 packets
+MyGetObservation: [500, 13, 10, 0, 2, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [25, 13, 86, 37, 0, 99, 66, 3, 1, 66, 63, 51, 93, 94, 71, 88, 15, 88, 20, 76]
+Node with ID 19 received 26 packets
+MyGetObservation: [495, 12, 9, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [3, 17, 92, 81, 0, 18, 80, 47, 13, 25, 25, 17, 91, 86, 14, 5, 56, 91, 96, 29]
+Node with ID 19 received 27 packets
+MyGetObservation: [484, 19, 7, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [68, 26, 18, 72, 65, 64, 16, 100, 2, 15, 13, 22, 43, 19, 79, 28, 41, 77, 14, 26]
+Node with ID 19 received 28 packets
+MyGetObservation: [500, 11, 5, 6, 0, 0, 0, 3, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [81, 93, 50, 29, 75, 57, 8, 88, 57, 79, 4, 45, 38, 75, 15, 65, 28, 92, 76, 10]
+Node with ID 19 received 29 packets
+MyGetObservation: [493, 10, 6, 5, 1, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [48, 48, 78, 52, 41, 46, 69, 94, 8, 85, 27, 35, 87, 33, 47, 60, 6, 23, 57, 95]
+Node with ID 19 received 30 packets
+MyGetObservation: [498, 11, 4, 5, 1, 1, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [18, 66, 9, 62, 18, 20, 68, 12, 60, 91, 73, 30, 25, 46, 52, 52, 20, 63, 31, 43]
+Node with ID 19 received 31 packets
+MyGetObservation: [500, 13, 1, 9, 0, 1, 0, 0, 2, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [72, 47, 73, 77, 70, 12, 93, 26, 23, 89, 76, 65, 69, 14, 50, 2, 25, 72, 53, 48]
+Node with ID 19 received 32 packets
+MyGetObservation: [500, 10, 2, 9, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [70, 46, 54, 100, 35, 57, 5, 79, 16, 54, 44, 28, 46, 96, 99, 57, 13, 15, 12, 46]
+Node with ID 19 received 33 packets
+MyGetObservation: [454, 8, 2, 11, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [12, 65, 21, 24, 48, 11, 68, 77, 26, 30, 67, 83, 27, 95, 9, 88, 17, 94, 5, 99]
+Node with ID 19 received 34 packets
+MyGetObservation: [500, 11, 1, 13, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [48, 98, 43, 75, 76, 41, 55, 80, 56, 83, 19, 89, 13, 74, 61, 27, 6, 58, 16, 67]
+Node with ID 19 received 35 packets
+MyGetObservation: [500, 10, 0, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [5, 3, 29, 8, 23, 76, 97, 53, 66, 99, 17, 71, 9, 65, 5, 68, 76, 26, 28, 7]
+Node with ID 19 received 36 packets
+MyGetObservation: [494, 20, 1, 6, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [98, 64, 42, 20, 91, 0, 28, 29, 18, 97, 46, 92, 81, 43, 49, 23, 22, 29, 37, 26]
+Node with ID 19 received 37 packets
+MyGetObservation: [468, 18, 3, 0, 12, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [14, 40, 25, 85, 11, 37, 50, 28, 76, 9, 39, 1, 66, 94, 99, 77, 68, 69, 56, 23]
+Node with ID 19 received 38 packets
+MyGetObservation: [500, 11, 2, 1, 7, 3, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [93, 37, 5, 63, 66, 100, 34, 46, 22, 57, 36, 7, 36, 20, 7, 97, 78, 83, 0, 39]
+Node with ID 19 received 39 packets
+MyGetObservation: [500, 11, 1, 1, 7, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [22, 52, 43, 28, 43, 18, 47, 76, 51, 26, 52, 37, 58, 47, 74, 44, 54, 75, 19, 84]
+Node with ID 19 received 40 packets
+MyGetObservation: [500, 11, 0, 3, 7, 2, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [91, 61, 70, 74, 73, 81, 37, 14, 42, 17, 76, 79, 91, 43, 99, 14, 58, 90, 96, 69]
+Node with ID 19 received 41 packets
+MyGetObservation: [500, 7, 5, 2, 6, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [18, 97, 17, 95, 10, 91, 100, 99, 43, 72, 77, 52, 89, 89, 72, 81, 87, 56, 19, 42]
+Node with ID 19 received 42 packets
+MyGetObservation: [500, 8, 4, 2, 2, 2, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [13, 11, 51, 59, 7, 43, 81, 0, 79, 58, 98, 99, 71, 77, 53, 34, 80, 30, 70, 53]
+Node with ID 19 received 43 packets
+MyGetObservation: [41, 8, 4, 3, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [26, 55, 12, 5, 10, 8, 32, 91, 36, 74, 45, 12, 79, 74, 24, 50, 40, 99, 78, 13]
+Node with ID 19 received 44 packets
+MyGetObservation: [500, 7, 6, 0, 1, 4, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [91, 76, 90, 59, 77, 1, 69, 25, 77, 22, 59, 15, 10, 1, 44, 82, 21, 48, 70, 0]
+Node with ID 19 received 45 packets
+MyGetObservation: [493, 6, 6, 0, 0, 3, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [53, 40, 37, 25, 77, 48, 4, 47, 94, 8, 1, 61, 50, 17, 57, 10, 18, 45, 41, 77]
+Node with ID 19 received 46 packets
+MyGetObservation: [500, 7, 5, 0, 1, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [99, 29, 63, 7, 67, 96, 75, 63, 92, 5, 81, 77, 86, 13, 3, 46, 8, 32, 56, 4]
+Node with ID 19 received 47 packets
+MyGetObservation: [500, 6, 7, 0, 0, 3, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [42, 11, 98, 47, 19, 76, 84, 32, 97, 16, 38, 93, 25, 82, 21, 61, 42, 49, 12, 41]
+Node with ID 19 received 48 packets
+MyGetObservation: [497, 5, 11, 0, 0, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [58, 76, 25, 18, 71, 10, 33, 42, 95, 77, 99, 89, 53, 57, 36, 45, 66, 29, 85, 100]
+Node with ID 19 received 49 packets
+MyGetObservation: [496, 6, 9, 0, 2, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [64, 56, 34, 24, 65, 6, 29, 26, 22, 75, 80, 64, 21, 43, 25, 8, 90, 2, 53, 6]
+Node with ID 19 received 50 packets
+MyGetObservation: [481, 4, 11, 0, 2, 0, 0, 0, 3, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [38, 3, 83, 93, 31, 4, 69, 92, 24, 22, 55, 71, 19, 3, 27, 68, 12, 95, 12, 81]
+Node with ID 19 received 51 packets
+MyGetObservation: [500, 0, 15, 0, 1, 0, 1, 0, 0, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [34, 31, 12, 41, 59, 51, 19, 35, 5, 17, 98, 24, 1, 12, 69, 50, 5, 60, 26, 33]
+Node with ID 19 received 52 packets
+MyGetObservation: [500, 0, 15, 1, 1, 0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [22, 13, 28, 68, 53, 100, 52, 73, 3, 65, 25, 41, 63, 27, 85, 3, 12, 39, 57, 94]
+Node with ID 19 received 53 packets
+MyGetObservation: [500, 0, 13, 2, 0, 1, 0, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [92, 94, 18, 20, 99, 21, 28, 45, 59, 24, 80, 65, 94, 100, 53, 22, 50, 70, 89, 19]
+Node with ID 19 received 54 packets
+MyGetObservation: [497, 1, 7, 3, 3, 0, 1, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [52, 39, 35, 24, 63, 19, 34, 51, 65, 52, 55, 8, 36, 70, 44, 31, 76, 49, 16, 46]
+Node with ID 19 received 55 packets
+MyGetObservation: [500, 2, 7, 4, 3, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [91, 20, 87, 99, 69, 82, 40, 60, 86, 41, 43, 83, 15, 86, 25, 99, 5, 11, 59, 26]
+Node with ID 19 received 56 packets
+MyGetObservation: [500, 2, 7, 4, 4, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [26, 4, 66, 67, 29, 18, 77, 100, 27, 56, 93, 37, 75, 27, 65, 25, 36, 92, 84, 1]
+Node with ID 19 received 57 packets
+MyGetObservation: [500, 0, 9, 4, 4, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [23, 84, 80, 93, 95, 0, 27, 49, 3, 81, 73, 0, 94, 66, 89, 18, 49, 49, 89, 58]
+Node with ID 19 received 58 packets
+MyGetObservation: [500, 3, 4, 5, 5, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [82, 64, 56, 21, 34, 24, 22, 41, 77, 44, 9, 41, 2, 81, 10, 18, 86, 76, 9, 92]
+Node with ID 19 received 59 packets
+MyGetObservation: [500, 3, 3, 4, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [40, 22, 7, 83, 89, 3, 37, 97, 40, 93, 4, 67, 3, 55, 54, 29, 76, 54, 13, 61]
+Node with ID 19 received 60 packets
+MyGetObservation: [500, 3, 2, 5, 6, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [79, 100, 81, 62, 80, 56, 56, 63, 83, 63, 3, 74, 85, 36, 100, 69, 52, 14, 41, 53]
+Node with ID 19 received 61 packets
+MyGetObservation: [500, 2, 2, 6, 5, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [4, 30, 12, 73, 83, 60, 49, 8, 12, 99, 97, 2, 78, 38, 41, 40, 25, 68, 78, 98]
+Node with ID 19 received 62 packets
+MyGetObservation: [500, 8, 3, 5, 5, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [9, 27, 67, 46, 99, 36, 14, 12, 72, 73, 1, 61, 81, 85, 13, 49, 90, 46, 52, 59]
+Node with ID 19 received 63 packets
+MyGetObservation: [500, 10, 3, 7, 4, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [33, 30, 34, 100, 83, 72, 67, 15, 41, 54, 43, 55, 39, 78, 68, 8, 10, 11, 6, 70]
+Node with ID 19 received 64 packets
+MyGetObservation: [164, 10, 3, 6, 4, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [19, 61, 5, 93, 10, 83, 2, 90, 65, 4, 54, 87, 73, 4, 42, 54, 82, 53, 3, 6]
+Node with ID 19 received 65 packets
+MyGetObservation: [500, 11, 3, 6, 3, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [62, 3, 8, 14, 51, 67, 73, 8, 89, 46, 5, 99, 14, 83, 25, 80, 72, 79, 35, 69]
+Node with ID 19 received 66 packets
+MyGetObservation: [497, 5, 7, 6, 4, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 1
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
+MyExecuteActions: [51, 44, 8, 26, 16, 70, 68, 10, 6, 8, 45, 89, 46, 6, 73, 75, 52, 30, 59, 32]
+Simulation stop
+Wait for stop message
+MyGetObservation: [500, 4, 6, 6, 4, 3, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+MyGetReward: 0
+MyGetGameOver: 0
+MyGetExtraInfo: currentNodeId=19
