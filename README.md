@@ -1,3 +1,5 @@
+# Taller 1 (NS3) - Modelos estocásticos y simulación en sistemas computacionales 
+
 ## Marco teórico
 
 ### Ns-3:
@@ -34,6 +36,39 @@ Aprender este tema es de demasiada relevancia además de fortalecer nuestras com
 
 ### Diagrama de flujo
 ![Diagrama de flujo](https://github.com/estocasticos2020/NS3/blob/master/Diagrama%20de%20flujo.png?raw=true)
+
+## Manual técnico y de usuario
+
+Para su ejecución abrir 2 terminales, 1 en la carpeta con el archivo waf
+![Manual1](https://github.com/estocasticos2020/NS3/blob/master/Manual1.png?raw=true)
+
+3n esta vamos a ejecutar el siguiente comando para poder inciar el ambiente de simulación respectivo: 
+`./waf --run "contrib/opengym/examples/linearmesh2"`
+
+![Manual2](https://github.com/estocasticos2020/NS3/blob/master/Manual2.png?raw=true)
+
+NOTA: cómo alteramos el ejemplo de linearmesh2  decidimos trabajar directamente en ese ejemplo y por eso corremos ese código
+y la otra en la carpeta donde esta el código de opengym
+
+![Manual3](https://github.com/estocasticos2020/NS3/blob/master/Manual3.png?raw=true)
+
+En esta carpeta procedemos a ejecutar nuestro agente respectivo con el siguiente comando:
+`python ./test2.py --start=0`
+
+![Manual4](https://github.com/estocasticos2020/NS3/blob/master/Manual4.png?raw=true)
+
+# Análisis
+
+## Escenario 1
+
+![Escenario1](https://github.com/estocasticos2020/NS3/blob/master/Escenario1.png?raw=true)
+
+## Escenario 1
+
+![Escenario2](https://github.com/estocasticos2020/NS3/blob/master/Escenario2.png?raw=true)
+
+## Escenario 3
+![Escenario3](https://github.com/estocasticos2020/NS3/blob/master/Escenario3.png?raw=true)
 
 ## Conclusiones
 

@@ -103,8 +103,14 @@ MyGymEnv::GetObservationSpace()
   float high = 100.0;
   std::vector<uint32_t> shape = {nodeNum,};
   std::string dtype = TypeNameGet<uint32_t> ();
-  Ptr<OpenGymBoxSpace> space = CreateObject<OpenGymBoxSpace> (low, high, shape, dtype);
+  Ptr<OpenGymDiscreteSpace> discrete = CreateObject<OpenGymDiscreteSpace> (nodeNum);
+  Ptr<OpenGymBoxSpace> box = CreateObject<OpenGymBoxSpace> (low, high, shape, dtype);
+
+  Ptr<OpenGymTupleSpace> space = CreateObject<OpenGymTupleSpace> ();
+  space->Add(box);
+  space->Add(discrete);
   NS_LOG_UNCOND ("GetObservationSpace: " << space);
+
   return space;
 }
 
@@ -137,6 +143,14 @@ MyGymEnv::GetObservation()
   NS_LOG_FUNCTION (this);
   uint32_t nodeNum = NodeList::GetNNodes ();
   std::vector<uint32_t> shape = {nodeNum,};
+  //Ptr<OpenGymBoxContainer<uint32_t> > box = CreateObject<OpenGymBoxContainer<uint32_t> >(shape);  
+  // Instanciación del contenedor de los paquetes perdidos tras la última acción
+  //static uint32_t lastLosses = 0;
+  //Ptr<OpenGymBoxContainer<uint32_t> > discrete = CreateObject<OpenGymBoxContainer<uint32_t> >(shape);
+  //uint32_t losses = udpServer->GetLost ();
+  //discrete->AddValue(losses);
+  //lastLosses = losses;
+  // Busqueda de todos los paquetes encolados de cada nodo.
   Ptr<OpenGymBoxContainer<uint32_t> > box = CreateObject<OpenGymBoxContainer<uint32_t> >(shape);
 
   for (NodeList::Iterator i = NodeList::Begin (); i != NodeList::End (); ++i) {
@@ -146,7 +160,8 @@ MyGymEnv::GetObservation()
     box->AddValue(value);
   }
 
-  NS_LOG_UNCOND ("MyGetObservation: " << box);
+  NS_LOG_UNCOND ("MyGetObservation reward: " << box);
+  //NS_LOG_UNCOND ("MyGetObservation losses: " << discrete);
   return box;
 }
 

@@ -50,7 +50,7 @@ main (int argc, char *argv[])
   bool eventBasedEnv = true;
 
   //Parameters of the scenario
-  uint32_t nodeNum = 20;
+  uint32_t nodeNum = 10;
   double distance = 10.0;
   bool noErrors = false;
   std::string errorModelType = "ns3::NistErrorRateModel";
