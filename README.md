@@ -1,3 +1,8 @@
+- Kevin Andrey Herrera Silva
+- Marcel Julian Martinez Vanegas
+- Jose David Salazar Moreno
+- Bryan David Vega Triana
+
 # Taller 1 (NS3) - Modelos estocásticos y simulación en sistemas computacionales 
 
 ## Marco teórico
@@ -70,7 +75,7 @@ En esta carpeta procedemos a ejecutar nuestro agente respectivo con el siguiente
 ### Escenario 3
 ![Escenario3](https://github.com/estocasticos2020/NS3/blob/master/Escenario3.png?raw=true)
 
-## Conclusiones
+### Conclusiones
 
 NS3 como herramienta de simulación de redes puede ser bastante poderoso y permite a su usuario modelar procesos que tengan que ver con sistemas de redes ya que sus configuraciones son demasiado flexibles, con parámetros como número de nodos, topología de red y protocolos utilizados ayudan al usuario a simular una experiencia demasiado cercana a la realidad. Aun así el uso de estas herramientas no es trivial, debido a su gran flexibilidad es fácil perderse y requiere de bastante estudio para poder dominarla ya que su uso no es muy intuitivo, pese a ello tienen un gran potencial y nos parecen muy valiosas en el ámbito educativo ayudándonos a simular modelos de redes de manera rápida.
 El uso de herramientas de inteligencia artificial como openAI Gym puede ayudar a encontrar la configuración óptima para una red de forma automática.
