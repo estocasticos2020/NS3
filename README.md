@@ -1,9 +1,9 @@
+# Taller 1 (NS3) - Modelos estocásticos y simulación en sistemas computacionales 
+
 - Kevin Andrey Herrera Silva
 - Marcel Julian Martinez Vanegas
 - Jose David Salazar Moreno
 - Bryan David Vega Triana
-
-# Taller 1 (NS3) - Modelos estocásticos y simulación en sistemas computacionales 
 
 ## Marco teórico
 
