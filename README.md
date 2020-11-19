@@ -57,17 +57,17 @@ En esta carpeta procedemos a ejecutar nuestro agente respectivo con el siguiente
 
 ![Manual4](https://github.com/estocasticos2020/NS3/blob/master/Manual4.png?raw=true)
 
-# Análisis
+## Análisis
 
-## Escenario 1
+### Escenario 1
 
 ![Escenario1](https://github.com/estocasticos2020/NS3/blob/master/Escenario1.png?raw=true)
 
-## Escenario 1
+### Escenario 1
 
 ![Escenario2](https://github.com/estocasticos2020/NS3/blob/master/Escenario2.png?raw=true)
 
-## Escenario 3
+### Escenario 3
 ![Escenario3](https://github.com/estocasticos2020/NS3/blob/master/Escenario3.png?raw=true)
 
 ## Conclusiones
